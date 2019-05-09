@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/listar_P.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/add_P.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/Interfaces/CRUD.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/Interfaces/CRUDM.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/Modelo/Cita.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/ModeloDAO/PacienteDAO.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/Modelo/Medico.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/edit_C.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/add_C.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/edit_P.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/index.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/add_M.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/listar_C.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/edit_M.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/ModeloDAO/MedicoDAO.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/ModeloDAO/CitaDAO.java</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/web/vistas/listar_M.jsp</file>
+            <file>file:/C:/Users/Estibo/Documents/NetBeansProjects/QUILEIA/src/java/Modelo/Paciente.java</file>
+        </group>
+    </open-files>
+</project-private>
